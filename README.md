@@ -2,7 +2,7 @@
 A useful tool to help calculate your score, and attach an image of your game board when playing online with others.
 
 # Screenshot
-![Tiny Towns Scorecard](https://user-images.githubusercontent.com/5044342/200055090-104e4e05-8914-4392-82db-a45d4b49c6f9.png)
+![Tiny Towns Scorecard](https://user-images.githubusercontent.com/5044342/200069793-55c57bd4-11bf-4a05-a49e-bc3d5c932d3d.png)
 
 # Functions
 There are various ways buildings receive scores in this game, so that job will be up to the player. Enter the building score in on the left, and once all the scores have been entered click calculate total to populate the total score.
