@@ -1,4 +1,4 @@
-# TinyTownsScorecard
+# Tiny Towns Single Player Scorecard
 A useful tool to help calculate your score, and attach an image of your game board when playing online with others.
 
 # Screenshot
